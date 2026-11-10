@@ -1,0 +1,1523 @@
+@media ((min-width: 1801px ) and (max-width: 2000px )) {
+  .position-relative {
+    height: auto;
+    margin-bottom: 50px;
+  }
+  .rond_bank {
+    width: 750px;
+    height: 750px;
+  }
+  .second_rond {
+    width: 600px;
+    height: 600px;
+  }
+  .banks,
+  .tiret_rond {
+    width: 450px;
+    height: 450px;
+    /* background-color: red; */
+  }
+  /* .img_spain{
+      width: 50px;
+    } */
+  .img_pict {
+    width: 200px;
+    height: 200px;
+  }
+  .bank1 {
+    left: 160px;
+  }
+  .bank2 {
+    left: 160px;
+  }
+  .bank3 {
+    bottom: 50px;
+  }
+  .bank4 {
+    bottom: 50px;
+  }
+  .bank6 {
+    top: 50px;
+  }
+  .bank5 {
+    top: 50px;
+  }
+  .appstore{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap:10px;
+  }
+
+}
+@media ((min-width: 1400px ) and (max-width: 1800px )) {
+  .position-relative {
+    height: auto;
+    margin-bottom: 50px;
+  }
+  .rond_bank {
+    width: 650px;
+    height: 650px;
+  }
+  .second_rond {
+    width: 525px;
+    height: 525px;
+  }
+  .banks,
+  .tiret_rond {
+    width: 420px;
+    height: 420px;
+    /* background-color: red; */
+  }
+  /* .img_spain{
+      width: 50px;
+    } */
+  .img_pict {
+    width: 200px;
+    height: 200px;
+  }
+  .bank1 {
+    left: 150px;
+  }
+  .bank2 {
+    left: 150px;
+  }
+  .bank3 {
+    bottom: 50px;
+  }
+  .bank4 {
+    bottom: 50px;
+  }
+  .bank6 {
+    top: 50px;
+  }
+  .bank5 {
+    top: 50px;
+  }
+  .appstore{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap:10px;
+  }
+
+}
+@media ((max-width: 1400px ) and (min-width: 1000px )) {
+  .my_nav {
+    padding: 20px 50px !important;
+  }
+  .navbar > .container-fluid {
+    align-items: normal !important ;
+  }
+  /* .trope{
+        display: block;
+      } */
+  .with_twint {
+    padding: 0 30px;
+  }
+  body .vital {
+    padding-left: 0;
+    padding: 50px !important;
+    margin-top: 100px;
+  }
+  .with_twint h1 {
+    font-size: 50px;
+  }
+  .img_girl {
+    height: 500px;
+  }
+  .img_phone {
+    width: 150px;
+    height: 300px;
+    left: -30px;
+  }
+  iframe {
+    width: 900px;
+    height: 500px;
+  }
+  .position-relative {
+    height: auto;
+    margin-bottom: 50px;
+  }
+  .assisting,
+  .what {
+    height: 700px;
+  }
+  .modale {
+    padding: 20px;
+  }
+  .chared {
+    width: auto;
+  }
+  .contenu_QR {
+    padding: 20px !important;
+  }
+  .qr1 h1 {
+    font-size: 50px;
+  }
+  .qr2 {
+    padding-left: 10px;
+    padding-right: 10px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .qr2 .style_sel {
+    width: auto;
+    margin-bottom: 20px;
+  }
+  .blue_circle {
+    display: flex;
+    right: 10px;
+    top: 0;
+  }
+  .content_foot {
+    /* padding: 70px 50px; */
+  }
+  .menu_foot {
+    padding-left: 0;
+  }
+  .separate {
+    /* flex-direction: column; */
+    align-items: start;
+  }
+  .second_part {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    text-align: end;
+    margin: 50px 0;
+    padding-left: 50px;
+  }
+  .botomer {
+    padding: 0;
+  }
+  .botomer .copyright {
+    display: block;
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  .next .spe {
+    display: none;
+  }
+  .spe1 {
+    margin-right: 30px;
+  }
+  .text_content h1 {
+    font-size: 50px;
+  }
+
+  .position-relative {
+    height: auto;
+    margin-bottom: 50px;
+  }
+  .rond_bank {
+    width: 450px;
+    height: 450px;
+  }
+  .second_rond {
+    width: 350px;
+    height: 350px;
+  }
+  .banks,
+  .tiret_rond {
+    width: 250px;
+    height: 250px;
+    /* background-color: red; */
+  }
+  .img_spain {
+    width: 100px;
+  }
+  .img_pict {
+    width: auto;
+    height: auto;
+  }
+  .bank1 {
+    width: 80px;
+    height: 80px;
+    left: 85px;
+    top: -35px;
+  }
+  .bank2 {
+    width: 80px;
+    height: 80px;
+    left: 85px;
+    bottom: -35px;
+  }
+  .bank3 {
+    width: 80px;
+    height: 80px;
+    bottom: 140px;
+  }
+  .bank4 {
+    width: 80px;
+    height: 80px;
+    bottom: 140px;
+  }
+  .bank5 {
+    width: 80px;
+    height: 80px;
+    top: 155px;
+    right: -25px;
+  }
+  .bank6 {
+    width: 80px;
+    height: 80px;
+    top: 155px;
+    left: -20px;
+  }
+  .norme h1 {
+    font-size: 50px;
+  }
+  .assisting h1 {
+    font-size: 50px;
+  }
+  .what {
+    padding-top: 0;
+  }
+
+  /* responsive de la page en caisse */
+
+  .la_ci {
+    height: auto;
+  }
+  .aa {
+    display: inline-flex;
+  }
+  .cannette {
+    height: 500px;
+  }
+  .phone_qr {
+    width: auto !important;
+    padding: 0;
+  }
+  .widget {
+    width: auto;
+    padding: 0;
+  }
+  .collect {
+    width: auto;
+    padding: 0;
+  }
+  .more_more {
+    padding: 0;
+  }
+  .vid_matter {
+    width: auto;
+  }
+
+  /* responsive de la page carte client */
+
+  .what_card {
+    padding: 0;
+    width: auto;
+  }
+  .supercarte {
+    width: auto;
+    height: auto;
+    padding: 30px;
+  }
+  .FAQ_carte {
+    width: auto;
+  }
+
+  
+  /* RESPONSIVE DE LA PAGE EN LIGNE */
+
+  .buy_online{
+    width: auto;
+    padding: 0;
+  }
+  /* .buy_online h1{
+    font-size: 50px;
+  } */
+  .contents_gider{
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+  }
+  .contents_gider .box{
+    height: auto;
+  }
+  .smart{
+    width: auto;
+    padding: 0;
+  }
+  /* .smart h1{
+    font-size: 50px;
+  } */
+  .grid_phone{
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+  }
+  .reduct{
+    width: auto;
+    height: auto;
+  }
+  .grid_phone .box{
+    height: auto;
+  }
+  .quick_buy{
+    width: auto;
+    padding: 0;
+    margin-top: 80px;
+    padding-top: 100px;
+  }
+  /* .quick_buy h1{
+    font-size: 50px;
+  } */
+
+
+  /* responsive de la section contact */
+
+  .logo_grid{
+    grid-template-columns: 1fr 1fr;
+    justify-items: center;
+  }
+  .g_cont{
+    width: 70%;
+  }
+  .haut_foot{
+    display: grid;
+    grid-template-columns: 10fr 10fr;
+  
+  }
+  .autome{
+    width: auto;
+  }
+  .menbut, .fit9{
+    width: 100%;
+    margin-bottom: 40px;
+    
+  }
+  .fit9{
+    padding-right: 70px;
+  }
+  .img_ak {
+    height: 90px;
+    width: 75%;
+  }
+  .locloc{
+    width: 80%;
+  }
+  .bas_foot{
+    padding: 30px 50px;
+  }
+  .appstore{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap:10px;
+  }
+  .stores {
+    padding: 0;
+}
+
+}
+@media (max-width: 999px) {
+  .my_nav {
+    padding: 20px 50px !important;
+  }
+  .navbar > .container-fluid {
+    align-items: normal !important ;
+  }
+  .liste {
+    display: flex;
+    margin: 0 !important;
+    flex-direction: row;
+    margin-bottom: 15px !important;
+  }
+  .cacheur {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .next ul {
+    display: flex;
+    flex-direction: row;
+  }
+  .element2 a {
+    padding: 0 10px !important ;
+  }
+  body .vital {
+    padding-left: 0;
+    padding: 50px !important;
+    margin-top: 100px;
+  }
+  .with_twint h1 {
+    font-size: 50px;
+  }
+  .img_girl {
+    height: 700px;
+  }
+  .img_phone {
+    width: 200px;
+    height: 400px;
+    left: 0;
+  }
+  iframe {
+    width: 700px;
+    height: 500px;
+  }
+
+  .position-relative {
+    height: auto;
+    margin-bottom: 50px;
+  }
+  .rond_bank {
+    width: 800px;
+    height: 800px;
+  }
+  .second_rond {
+    width: 650px;
+    height: 650px;
+  }
+  .banks,
+  .tiret_rond {
+    width: 500px;
+    height: 500px;
+    /* background-color: red; */
+  }
+  /* .img_spain{
+            width: 50px;
+          } */
+  .img_pict {
+    width: 200px;
+    height: 200px;
+  }
+
+  .zurk {
+    padding: 50px 20px;
+  }
+  .blue_circle {
+    display: flex;
+    right: 10px;
+    top: 90px;
+  }
+  .content_foot {
+    padding: 70px 50px;
+  }
+  .menu_foot {
+    padding-left: 0;
+  }
+  .separate {
+    /* flex-direction: column; */
+    align-items: start;
+  }
+  .second_part {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    text-align: end;
+    margin: 50px 0;
+    padding-left: 50px;
+  }
+  .botomer {
+    padding: 0;
+  }
+  .botomer .copyright {
+    display: block;
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  .modale {
+    padding: 20px;
+  }
+  .chared {
+    width: auto;
+  }
+  .contenu_QR {
+    padding: 20px !important;
+  }
+  .qr1 h1 {
+    font-size: 50px;
+  }
+  .qr2 {
+    padding-left: 10px;
+    padding-right: 200px;
+    /* flex-direction: column; */
+  }
+  .qr2 .style_sel {
+    width: auto;
+    margin-bottom: 20px;
+  }
+
+  /* responsive de la en caisse */
+
+  .la_ci {
+    height: 700px;
+    padding: 0;
+  }
+  .cannette {
+    height: 700px;
+  }
+  .phone_qr {
+    width: auto !important ;
+    padding: 0;
+  }
+  .old_qr {
+    height: 600px;
+    margin-bottom: 50px;
+  }
+  .every_qr {
+    padding: 0;
+  }
+  .widget {
+    width: auto;
+    padding: 0;
+  }
+  .content_deo {
+    width: auto;
+    height: 400px;
+  }
+  .collect {
+    width: auto;
+    padding: 0;
+  }
+  .with_akwa {
+    height: 400px;
+  }
+  .more_more {
+    padding: 0;
+  }
+  .vid_matter {
+    width: auto;
+    height: 500px;
+  }
+
+  /* responsive de la page cartes clients */
+  .what_card {
+    width: auto;
+    padding: 0;
+  }
+
+  .container_grid {
+    grid-template-columns: 1fr 1fr;
+  }
+  .supercarte {
+    width: auto;
+    height: auto;
+    padding: 30px;
+  }
+  .supercarte a {
+    display: inline-flex;
+  }
+  .vid_twint {
+    width: 600px;
+    height: 300px;
+  }
+  .FAQ_carte {
+    padding: 0;
+    width: auto;
+  }
+
+   /* RESPONSIVE DE LA PAGE EN LIGNE */
+
+   .buy_online{
+    width: auto;
+    padding: 0;
+  }
+  .buy_online h1{
+    font-size: 50px;
+  }
+  .contents_gider{
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+  }
+  .contents_gider .box{
+    height: auto;
+  }
+  .smart{
+    width: auto;
+    padding: 0;
+  }
+  .smart h1{
+    font-size: 50px;
+  }
+  .grid_phone{
+    grid-template-columns: 1fr;
+    gap: 10px;
+  }
+  .reduct{
+    width: auto;
+    height: auto;
+  }
+  .grid_phone .box{
+    height: auto;
+  }
+  .quick_buy{
+    width: auto;
+    padding: 0;
+    margin-top: 80px;
+    padding-top: 100px;
+  }
+  .quick_buy h1{
+    font-size: 50px;
+  }
+  .logo_grid{
+    grid-template-columns: 1fr 1fr;
+    justify-items: center;
+  }
+
+     /*responsive de la section contacter */
+    
+     .content_foot{
+      padding: 0;
+    }
+    .autome{
+      width: auto;
+    }
+    .g_cont{
+      width: auto;
+    }
+    .fit9{
+      margin-bottom: 40px;
+    }
+    .appstore{
+      flex-direction: column;
+      align-items: flex-end   ;
+    }
+    .appstore a{
+      width: 250px;
+     margin: 0 auto;
+     margin-bottom: 10px;
+    }
+    .haut_foot{
+     justify-self:center;
+    }
+    .menbut{
+      margin-bottom: 30px;
+    }
+    .networked{
+      margin-right: 30px;
+    }
+    .bas_foot{
+      padding: 30px 50px ;
+      width: 100%;
+    }
+
+
+}
+
+@media (max-width: 780px) {
+  .my_nav {
+    padding: 20px 50px !important;
+  }
+  .navbar > .container-fluid {
+    align-items: normal !important ;
+  }
+  .liste {
+    display: flex;
+    margin: 0 !important;
+    flex-direction: row;
+    margin-bottom: 15px !important;
+  }
+  .cacheur {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .next ul {
+    display: flex;
+    flex-direction: row;
+  }
+  .element2 a {
+    padding: 0 10px !important ;
+  }
+  body .vital {
+    padding-left: 0;
+    padding: 50px !important;
+    margin-top: 100px;
+  }
+  .with_twint h1 {
+    font-size: 50px;
+  }
+  .img_girl {
+    height: 700px;
+  }
+  .img_phone {
+    width: 200px;
+    height: 400px;
+    left: 0;
+  }
+  iframe {
+    width: 700px;
+    height: 500px;
+  }
+
+  .position-relative {
+    height: auto;
+    margin-bottom: 50px;
+  }
+  .rond_bank {
+    width: 650px;
+    height: 650px;
+  }
+  .second_rond {
+    width: 530px;
+    height: 530px;
+  }
+  .banks,
+  .tiret_rond {
+    width: 400px;
+    height: 400px;
+    /* background-color: red; */
+  }
+  /* .img_spain{
+        width: 50px;
+      } */
+  .img_pict {
+    width: 100px;
+    height: 100px;
+  }
+
+  .zurk {
+    padding: 50px 20px;
+  }
+  .blue_circle {
+    display: flex;
+    right: 10px;
+  }
+  .content_foot {
+    padding: 70px 50px;
+  }
+  .menu_foot {
+    padding-left: 0;
+  }
+  .separate {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .second_part {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin: 50px 0;
+  }
+  .botomer {
+    padding: 0;
+  }
+  .botomer .copyright {
+    display: block;
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  .modale {
+    padding: 20px;
+  }
+  .chared {
+    width: auto;
+  }
+  .contenu_QR {
+    padding: 20px !important;
+  }
+  .qr1 h1 {
+    font-size: 50px;
+  }
+  .qr2 {
+    padding-left: 10px;
+    padding-right: 10px;
+    flex-direction: column;
+  }
+  .qr2 .style_sel {
+    width: auto;
+    margin-bottom: 20px;
+  }
+  .bank1 {
+    left: 140px;
+  }
+  .bank2 {
+    left: 140px;
+  }
+  .bank6 {
+    top: 30px;
+  }
+  .bank3 {
+    bottom: 50px;
+  }
+  .bank5 {
+    top: 30px;
+  }
+  .bank4 {
+    bottom: 50px;
+  }
+
+  /* responsive de la page en caisse */
+
+  .la_ci {
+    height: 700px;
+    padding-right: 0;
+  }
+  .cannette {
+    height: 650px;
+  }
+  .phone_qr {
+    width: auto !important;
+    padding: 0;
+  }
+  .old_qr {
+    height: 600px;
+    margin-bottom: 60px;
+  }
+  .every_qr {
+    padding: 0;
+  }
+  .widget {
+    width: auto;
+    padding: 0;
+  }
+  .content_deo {
+    width: auto;
+    height: 400px;
+  }
+  .collect {
+    width: auto;
+    padding: 0;
+  }
+  .with_akwa {
+    height: 400px;
+  }
+  .more_more {
+    padding: 0;
+  }
+  .vid_matter {
+    width: auto;
+    height: 400px;
+  }
+
+  /* responsive de la page cartes clients */
+  .what_card {
+    width: auto;
+    padding: 0;
+  }
+
+  .container_grid {
+    grid-template-columns: 1fr 1fr;
+  }
+  .supercarte {
+    width: auto;
+    height: auto;
+    padding: 30px;
+  }
+  .supercarte a {
+    display: inline-flex;
+  }
+  .vid_twint {
+    width: 600px;
+    height: 300px;
+  }
+  .FAQ_carte {
+    padding: 0;
+    width: auto;
+  }
+
+   
+    /* RESPONSIVE DE LA PAGE EN LIGNE */
+
+    .buy_online{
+      width: auto;
+      padding: 0;
+    }
+    .buy_online h1{
+      font-size: 50px;
+    }
+    .contents_gider{
+      grid-template-columns: 1fr;
+      gap: 20px;
+    }
+    .contents_gider .box{
+      height: auto;
+    }
+    .smart{
+      width: auto;
+      padding: 0;
+    }
+    .smart h1{
+      font-size: 50px;
+    }
+    .grid_phone{
+      grid-template-columns: 1fr;
+      gap: 10px;
+    }
+    .reduct{
+      width: auto;
+      height: auto;
+    }
+    .grid_phone .box{
+      height: auto;
+    }
+    .quick_buy{
+      width: auto;
+      padding: 0;
+      margin-top: 80px;
+      padding-top: 100px;
+    }
+    .quick_buy h1{
+      font-size: 50px;
+    }
+    .logo_grid{
+      grid-template-columns: 1fr 1fr;
+      justify-items: center;
+    }
+
+    /*responsive de la section contacter */
+    
+    .content_foot{
+      padding: 0;
+    }
+    .autome{
+      width: auto;
+    }
+    .g_cont{
+      width: auto;
+    }
+    .fit9{
+      margin-bottom: 40px;
+    }
+    .appstore{
+      flex-direction: column;
+      align-items: flex-end   ;
+    }
+    .appstore a{
+      width: 250px;
+     margin: 0 auto;
+     margin-bottom: 10px;
+    }
+    .haut_foot{
+     justify-self:center;
+    }
+    .menbut{
+      margin-bottom: 30px;
+    }
+    .networked{
+      margin-right: 30px;
+    }
+    .bas_foot{
+      padding: 30px 5px ;
+    }
+
+}
+
+@media (max-width: 600px) {
+  .my_nav {
+    padding: 20px 10px !important;
+  }
+  .navbar > .container-fluid {
+    align-items: normal !important ;
+  }
+  .liste {
+    display: grid;
+    margin: 0 !important;
+    grid-template-rows: 40px 40px 40px 40px;
+    margin-bottom: 15px !important;
+  }
+  .cacheur {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+  }
+  .next ul {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-items: center;
+  }
+  .next .spe{
+    margin: 0 10px !important;
+  }
+
+  .element2 a {
+    padding: 0 10px !important ;
+  }
+  .submenu {
+    padding: 10px;
+  }
+  .abs {
+    position: relative;
+    right: 0;
+  }
+  body .vital {
+    padding-left: 0;
+    padding: 50px 20px !important;
+    margin-top: 100px;
+  }
+  .with_twint h1 {
+    font-size: 50px;
+  }
+  .with_twint {
+    height: 800px;
+  }
+  .img_girl {
+    height: 388px;
+  }
+  .img_phone {
+    width: 100px;
+    height: 200px;
+    left: 0;
+  }
+  iframe {
+    width: 350px;
+    height: 300px;
+  }
+  .actual h1 {
+    font-size: 50px;
+  }
+  .card_img .commu {
+    font-size: initial;
+  }
+  .card_body {
+    padding: 20px;
+  }
+  .card_body h4 {
+    line-height: 40px;
+    font-size: 25px;
+  }
+  .card_body,
+  .card_footer {
+    padding: 10px 20px;
+  }
+  .sliderd {
+    padding: 0;
+  }
+  .espaced {
+    width: auto;
+    padding: 15px;
+  }
+  .text_content h1 {
+    font-size: 50px;
+  }
+  .position-relative {
+    height: auto;
+    margin-bottom: 50px;
+  }
+  .rond_bank {
+    width: 350px;
+    height: 350px;
+  }
+  .second_rond {
+    width: 280px;
+    height: 280px;
+  }
+  .banks,
+  .tiret_rond {
+    width: 200px;
+    height: 200px;
+    /* background-color: red; */
+  }
+  .img_spain {
+    width: 50px;
+  }
+  .img_pict {
+    width: auto;
+    height: auto;
+  }
+  .bank1 {
+    width: 80px;
+    height: 80px;
+    left: 55px;
+    top: -35px;
+  }
+  .bank2 {
+    width: 80px;
+    height: 80px;
+    left: 55px;
+    bottom: -35px;
+  }
+  .bank3 {
+    width: 80px;
+    height: 80px;
+    bottom: 100px;
+  }
+  .bank4 {
+    width: 80px;
+    height: 80px;
+    bottom: 100px;
+  }
+  .bank5 {
+    width: 80px;
+    height: 80px;
+    top: 115px;
+    right: -25px;
+  }
+  .bank6 {
+    width: 80px;
+    height: 80px;
+    top: 115px;
+  }
+  .spiner_bank {
+    margin-top: 100px;
+  }
+  .norme h1,
+  .assisting h1 {
+    font-size: 50px;
+  }
+  .trope {
+    margin-bottom: 0;
+  }
+  .assisting,
+  .what {
+    height: 700px;
+  }
+
+  .assisting a {
+    font-size: initial;
+  }
+  .what ul {
+    padding-left: 0 !important;
+  }
+  .what ul li a {
+    font-size: 20px;
+  }
+  .ele {
+    margin-bottom: 0;
+  }
+  .contenu_QR {
+    padding: 20px !important;
+  }
+  .qr1 h1 {
+    font-size: 50px;
+  }
+  .qr2 {
+    padding-left: 10px;
+    padding-right: 10px;
+    flex-direction: column;
+  }
+  .qr2 .style_sel {
+    width: auto;
+    margin-bottom: 20px;
+  }
+  .zurk {
+    padding: 50px 20px;
+  }
+  .blue_circle {
+    display: none;
+  }
+  .content_foot {
+    padding: 0;
+  }
+  .menu_foot {
+    padding-left: 0;
+  }
+  .separate {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .second_part {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin: 50px 0;
+    padding-left: 0 !important;
+  }
+  .botomer {
+    padding: 0;
+  }
+  .botomer .copyright {
+    display: block;
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  .modale {
+    padding: 20px;
+  }
+  .chared {
+    width: auto;
+  }
+  .bankimg1 {
+    width: auto;
+    height: auto;
+  }
+  .bankimg1 .fond_b {
+    font-size: 13px;
+  }
+  .bankimg1 p {
+    font-size: 10px;
+  }
+  .bankimg1 .pink_r {
+    font-size: 15px;
+  }
+
+  /* responsive de la page en caisse */
+
+  .la_ci {
+    height: auto;
+    padding: 0;
+    height: 800px;
+  }
+  .la_ci h1 {
+    font-size: 40px;
+  }
+  .la_ci p {
+    margin-top: 50px;
+    font-size: 20px;
+  }
+  .aa {
+    display: inline-flex;
+  }
+  .a1,
+  .a2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .cannette {
+    height: 300px;
+  }
+  .old_qr {
+    height: 300px;
+  }
+  .pict_phone {
+    height: 300px;
+    padding: 0;
+  }
+  .where_pay h1 {
+    font-size: 40px;
+  }
+  .phone_qr {
+    width: auto !important;
+    padding: 0;
+  }
+  .every_qr {
+    padding: 0;
+    margin-top: 50px;
+  }
+  .widget {
+    margin: 0;
+    margin-top: 50px;
+    width: auto;
+    padding: 0;
+  }
+  .widget h1,
+  .collect h1,
+  .more_more h1 {
+    font-size: 40px;
+  }
+  .content_deo {
+    width: auto;
+    height: 200px;
+  }
+  .collect {
+    width: auto;
+    padding: 0;
+  }
+  .cole_point {
+    padding-top: 30px;
+  }
+  .with_akwa {
+    height: 700px;
+  }
+  .with_akwa a {
+    margin-right: 0;
+    padding: 15px;
+  }
+  .more_more {
+    padding: 0;
+  }
+  .vid_matter {
+    width: auto;
+    height: 200px;
+  }
+  .hide_items .styla {
+    font-size: 15px;
+    margin-right: 0;
+    padding: 15px;
+  }
+
+  /* respnsive de la page carte client */
+
+  .CAT {
+    height: 650px;
+  }
+
+  .advantaged {
+    padding: 0;
+  }
+  .advantaged h1 {
+    font-size: 35px;
+  }
+  .advantaged ul {
+    padding-left: 0;
+  }
+  .what_card {
+    width: auto;
+    padding: 0;
+  }
+  .what_card h1 {
+    font-size: 35px;
+  }
+  .container_grid {
+    grid-template-columns: 1fr;
+  }
+  .this_funct {
+    padding: 0;
+  }
+  .this_funct h1 {
+    font-size: 35px;
+  }
+  .vid_twint {
+    width: 300px;
+    height: 200px;
+  }
+  .supercarte {
+    width: auto;
+    height: 600px;
+    padding: 15px;
+  }
+  .supercarte h2 {
+    font-size: 25px;
+    text-align: center;
+  }
+  .supercarte a {
+    display: inline-flex;
+  }
+  .FAQ_carte {
+    padding: 0;
+    width: auto;
+  }
+  .FAQ_carte h1 {
+    font-size: 35px;
+    margin-bottom: 50px;
+  }
+
+  /* RESPONSIVE DE LA PAGE EN LIGNE */
+
+  .buy_online{
+    width: auto;
+    padding: 0;
+  }
+  .buy_online h1{
+    font-size: 40px;
+  }
+  .contents_gider{
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+  .contents_gider .box{
+    height: auto;
+  }
+  .smart{
+    width: auto;
+    padding: 0;
+  }
+  .smart h1{
+    font-size: 40px;
+  }
+  .grid_phone{
+    grid-template-columns: 1fr;
+    gap: 10px;
+  }
+  .reduct{
+    width: auto;
+    height: auto;
+  }
+  .grid_phone .box{
+    height: 400px;
+  }
+  .quick_buy{
+    width: auto;
+    padding: 0;
+    margin-top: 80px;
+  }
+  .quick_buy h1{
+    font-size: 40px;
+  }
+  .logo_grid{
+    grid-template-columns: 1fr;
+    justify-items: center;
+  }
+
+
+  /* style des modification à savoir contact */
+  
+  .fax{
+    padding: 50px 10px;
+  }
+  .g_cont{
+    width: auto;
+  }
+  .img_ak{
+    height: 80px;
+  }
+  .fax h1{
+    font-size: 40px;
+  }
+  .autome{
+    width: 100%;
+  }
+  .fit9{
+    margin-bottom: 30px;
+  }
+  .appstore{
+    display: inline-grid;
+    width: 100%;
+    margin-bottom: 30px;
+  }
+  .appstore a{
+    margin-bottom: 10px;
+  }
+  .networked{
+    margin-bottom: 30px;
+    margin-right: 0;
+  }
+  .conduse{
+    text-align: center;
+  }
+  .bas_foot{
+    display: inline-block;
+    padding: 30px 20px;
+  }
+  #scrollToTopBtn{
+    right: 30px;
+    bottom: 50px;
+  }
+  .first_section{
+    padding-bottom: 10px;
+  }
+  .coordonne{
+    display: block;
+    align-items: normal;
+  }
+
+  /* responsive de la protection de données */
+
+  .FAQ_carte ul li h3 {
+    font-size: 15px;
+    display: flex;
+    align-items: center;
+}
+.FAQ_carte ul li h3 i{
+  margin-right: 5px;
+}
+.haut_foot{
+  padding: 10px;
+}
+
+
+
+/* .my_nav {
+  background-color: rgb(235, 253, 255) !important;
+  padding: 20px 5%; 
+}
+
+@media (max-width: 768px) {
+  .my_nav .container-fluid {
+    flex-direction: column; 
+  }
+
+  .element2 a {
+    padding: 10px 15px; 
+  }
+
+  .next ul {
+    flex-direction: column; 
+  }
+
+  .next ul li {
+    margin-bottom: 10px; 
+  }
+
+  .next .spe button {
+    width: 100%;
+    margin-top: 10px; 
+  }*/
+}

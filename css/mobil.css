@@ -1,0 +1,760 @@
+@media ((min-width: 1400px ) and (max-width: 1660px )) {
+  .sliderd {
+    padding: 0;
+  }
+  .espaced {
+    width: auto;
+    padding: 15px;
+  }
+  .text_content h1 {
+    font-size: 50px;
+  }
+  .position-relative {
+    height: auto;
+    margin-bottom: 50px;
+  }
+  .rond_bank {
+    width: 700px;
+    height: 700px;
+  }
+  .second_rond {
+    width: 550px;
+    height: 550px;
+  }
+  .banks,
+  .tiret_rond {
+    width: 400px;
+    height: 400px;
+    /* background-color: red; */
+  }
+  .img_spain {
+    width: 90px;
+  }
+  .img_pict {
+    width: auto;
+    height: auto;
+  }
+  .bank1 {
+    width: 80px;
+    height: 80px;
+    left: 160px;
+    top: -35px;
+  }
+  .bank2 {
+    width: 80px;
+    height: 80px;
+    left: 160px;
+    bottom: -35px;
+  }
+  .bank3 {
+    width: 80px;
+    height: 80px;
+    bottom: 40px;
+    left: -1px;
+  }
+  .bank4 {
+    width: 80px;
+    height: 80px;
+    bottom: 40px;
+    right: -1px;
+  }
+  .bank5 {
+    width: 80px;
+    height: 80px;
+    top: 70px;
+    right: -25px;
+  }
+  .bank6 {
+    width: 80px;
+    height: 80px;
+    top: 70px;
+    left: -15px;
+  }
+  .norme {
+    padding: 30px;
+  }
+}
+@media ((max-width: 1400px ) and (min-width: 1000px )) {
+  .my_nav {
+    padding: 20px 50px !important;
+  }
+  .navbar > .container-fluid {
+    align-items: normal !important ;
+  }
+  .trope {
+    /* display: block; */
+  }
+  /* .with_twint {
+    padding: 0 30px;
+    height: auto;
+  } */
+  body .vital {
+    padding-left: 0;
+    padding: 50px !important;
+  }
+  .with_twint h1 {
+    font-size: 50px;
+  }
+  .img_girl {
+    height: 700px;
+  }
+  .img_phone {
+    width: 150px;
+    height: 300px;
+    left: 0;
+  }
+  iframe {
+    width: 900px;
+    height: 500px;
+  }
+  .position-relative {
+    height: auto;
+    margin-bottom: 50px;
+  }
+  .assisting,
+  .what {
+    height: 700px;
+  }
+
+  .modale {
+    padding: 20px;
+  }
+  .chared {
+    width: auto;
+  }
+  .contenu_QR {
+    padding: 20px !important;
+  }
+  .qr1 h1 {
+    font-size: 50px;
+  }
+  .qr2 {
+    padding-left: 10px;
+    padding-right: 10px;
+    /* flex-direction: column; */
+  }
+  .qr2 .style_sel {
+    width: auto;
+    margin-bottom: 20px;
+  }
+  .blue_circle {
+    display: flex;
+    right: 10px;
+    top: 0;
+  }
+  .content_foot {
+    padding: 70px 50px;
+  }
+  .menu_foot {
+    padding-left: 0;
+  }
+  .separate {
+    /* flex-direction: column; */
+    align-items: start;
+  }
+  .second_part {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    text-align: end;
+    margin: 50px 0;
+    padding-left: 50px;
+  }
+  .botomer {
+    padding: 0;
+  }
+  .botomer .copyright {
+    display: block;
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  .what ul {
+    padding-left: 0 !important ;
+  }
+  .next .spe {
+    display: none;
+  }
+  .next ul li a {
+    margin: 0 15px;
+  }
+
+  .sliderd {
+    padding: 0;
+  }
+  .espaced {
+    width: auto;
+    padding: 15px;
+  }
+  .text_content h1 {
+    font-size: 50px;
+  }
+  .position-relative {
+    height: auto;
+    margin-bottom: 50px;
+  }
+  .rond_bank {
+    width: 450px;
+    height: 450px;
+  }
+  .second_rond {
+    width: 350px;
+    height: 350px;
+  }
+  .banks,
+  .tiret_rond {
+    width: 300px;
+    height: 300px;
+    /* background-color: red; */
+  }
+  .img_spain {
+    width: 90px;
+  }
+  .img_pict {
+    width: auto;
+    height: auto;
+  }
+  .bank1 {
+    width: 80px;
+    height: 80px;
+    left: 105px;
+    top: -35px;
+  }
+  .bank2 {
+    width: 80px;
+    height: 80px;
+    left: 105px;
+    bottom: -35px;
+  }
+  .bank3 {
+    width: 80px;
+    height: 80px;
+    bottom: 40px;
+    left: -15px;
+  }
+  .bank4 {
+    width: 80px;
+    height: 80px;
+    bottom: 40px;
+    right: -15px;
+  }
+  .bank5 {
+    width: 80px;
+    height: 80px;
+    top: 40px;
+    right: -25px;
+  }
+  .bank6 {
+    width: 80px;
+    height: 80px;
+    top: 40px;
+    left: -15px;
+  }
+  .norme {
+    padding: 30px;
+  }
+  .img_girl {
+    padding-left: 20px;
+  }
+
+  /* .tout .row.col-lg-12 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+} */
+  /* .images {
+  width: 100%;
+} */
+}
+@media (max-width: 999px) {
+  .my_nav {
+    padding: 20px 50px !important;
+  }
+  .navbar > .container-fluid {
+    align-items: normal !important ;
+  }
+  .liste {
+    display: flex;
+    margin: 0 !important;
+    flex-direction: row;
+    margin-bottom: 15px !important;
+  }
+  .cacheur {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .next ul {
+    display: flex;
+    flex-direction: row;
+  }
+  .element2 a {
+    padding: 0 10px !important ;
+  }
+  body .vital {
+    padding-left: 0;
+    padding: 50px !important;
+  }
+  .with_twint {
+    height: 600px;
+  }
+  .with_twint h1 {
+    font-size: 50px;
+  }
+  .img_girl {
+    height: 700px;
+  }
+  .img_phone {
+    width: 200px;
+    height: 400px;
+    left: 0;
+  }
+  iframe {
+    width: 700px;
+    height: 500px;
+  }
+
+  .position-relative {
+    height: auto;
+    margin-bottom: 50px;
+  }
+  .rond_bank {
+    width: 800px;
+    height: 800px;
+  }
+  .second_rond {
+    width: 650px;
+    height: 650px;
+  }
+  .banks,
+  .tiret_rond {
+    width: 500px;
+    height: 500px;
+    /* background-color: red; */
+  }
+  /* .img_spain{
+            width: 50px;
+          } */
+  .img_pict {
+    width: auto;
+    height: auto;
+  }
+
+  .zurk {
+    padding: 50px 20px;
+  }
+  .blue_circle {
+    display: flex;
+    right: 10px;
+    top: 90px;
+  }
+  .content_foot {
+    padding: 70px 50px;
+  }
+  .menu_foot {
+    padding-left: 0;
+  }
+  .separate {
+    /* flex-direction: column; */
+    align-items: start;
+  }
+  .second_part {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    text-align: end;
+    margin: 50px 0;
+    padding-left: 50px;
+  }
+  .botomer {
+    padding: 0;
+  }
+  .botomer .copyright {
+    display: block;
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  .modale {
+    padding: 20px;
+  }
+  .chared {
+    width: auto;
+  }
+  .contenu_QR {
+    padding: 20px !important;
+  }
+  .qr1 h1 {
+    font-size: 50px;
+  }
+  .qr2 {
+    padding-left: 10px;
+    padding-right: 200px;
+    /* flex-direction: column; */
+  }
+  .qr2 .style_sel {
+    width: auto;
+    margin-bottom: 20px;
+  }
+  /* .card_body{
+      padding: 50px 30px;
+    } */
+  .second_menu_foot {
+    display: none;
+  }
+}
+
+@media (max-width: 780px) {
+  .my_nav {
+    padding: 20px 50px !important;
+  }
+  .navbar > .container-fluid {
+    align-items: normal !important ;
+  }
+  .liste {
+    display: flex;
+    margin: 0 !important;
+    flex-direction: row;
+    margin-bottom: 15px !important;
+  }
+  .cacheur {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .next ul {
+    display: flex;
+    flex-direction: row;
+  }
+  .element2 a {
+    padding: 0 10px !important ;
+  }
+  body .vital {
+    padding-left: 0;
+    padding: 50px !important;
+  }
+  .with_twint h1 {
+    font-size: 50px;
+  }
+  .img_girl {
+    height: 700px;
+  }
+  .img_phone {
+    width: 200px;
+    height: 400px;
+    left: 0;
+  }
+  iframe {
+    width: 700px;
+    height: 500px;
+  }
+
+  .position-relative {
+    height: auto;
+    margin-bottom: 50px;
+  }
+  .rond_bank {
+    width: 650px;
+    height: 650px;
+  }
+  .second_rond {
+    width: 550px;
+    height: 550px;
+  }
+  .banks,
+  .tiret_rond {
+    width: 450px;
+    height: 450px;
+    /* background-color: red; */
+  }
+  /* .img_spain{
+        width: 50px;
+      } */
+  .img_pict {
+    width: auto;
+    height: auto;
+  }
+
+  .zurk {
+    padding: 50px 20px;
+  }
+  .blue_circle {
+    display: flex;
+    right: 10px;
+  }
+  .content_foot {
+    padding: 70px 50px;
+  }
+  .menu_foot {
+    padding-left: 0;
+  }
+  .separate {
+    /* flex-direction: column; */
+    /* align-items: flex-start; */
+    align-items: center;
+  }
+  .second_part {
+    /* display: flex;
+      flex-direction: column;
+      align-items: end;
+      text-align: end;
+      margin: 50px 0; */
+  }
+  .botomer {
+    padding: 0;
+  }
+  .botomer .copyright {
+    display: block;
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  .modale {
+    padding: 20px;
+  }
+  .chared {
+    width: auto;
+  }
+  .contenu_QR {
+    padding: 20px !important;
+  }
+  .qr1 h1 {
+    font-size: 50px;
+  }
+  .qr2 {
+    padding-left: 10px;
+    padding-right: 10px;
+    flex-direction: column;
+  }
+  .qr2 .style_sel {
+    width: auto;
+    margin-bottom: 20px;
+  }
+  .what ul {
+    padding-left: 0px;
+  }
+  .assisting,
+  .what {
+    height: 500px;
+  }
+}
+
+@media (max-width: 600px) {
+  .my_nav {
+    padding: 20px 10px !important;
+  }
+  .navbar > .container-fluid {
+    align-items: normal !important ;
+  }
+  .liste {
+    display: flex;
+    margin: 0 !important;
+    flex-direction: row;
+    margin-bottom: 15px !important;
+  }
+  .cacheur {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+  }
+  .next ul {
+    display: flex;
+    flex-direction: row;
+  }
+  .element2 a {
+    padding: 0 10px !important ;
+  }
+  .submenu {
+    padding: 10px;
+  }
+  .abs {
+    position: relative;
+    right: 0;
+  }
+  body .vital {
+    padding-left: 0;
+    padding: 50px 20px !important;
+  }
+  .with_twint h1 {
+    font-size: 50px;
+  }
+  .with_twint {
+    height: 800px;
+  }
+  .img_girl {
+    height: 388px;
+  }
+  .img_phone {
+    width: 100px;
+    height: 200px;
+    left: 0;
+  }
+  iframe {
+    width: 350px;
+    height: 300px;
+  }
+  .actual h1 {
+    font-size: 50px;
+  }
+  .card_img .commu {
+    font-size: initial;
+  }
+  .card_body {
+    padding: 20px;
+  }
+  .card_body h4 {
+    line-height: 40px;
+    font-size: 25px;
+  }
+  .card_body,
+  .card_footer {
+    padding: 10px 20px;
+  }
+  .sliderd {
+    padding: 0;
+  }
+  .espaced {
+    width: auto;
+    padding: 15px;
+  }
+  .text_content h1 {
+    font-size: 50px;
+  }
+  .position-relative {
+    height: auto;
+    margin-bottom: 50px;
+  }
+  .rond_bank {
+    width: 350px;
+    height: 350px;
+  }
+  .second_rond {
+    width: 250px;
+    height: 250px;
+  }
+  .banks,
+  .tiret_rond {
+    width: 200px;
+    height: 200px;
+    /* background-color: red; */
+  }
+  .img_spain {
+    width: 50px;
+  }
+  .img_pict {
+    width: auto;
+    height: auto;
+  }
+  .bank1 {
+    width: 80px;
+    height: 80px;
+    left: 55px;
+    top: -35px;
+  }
+  .bank2 {
+    width: 80px;
+    height: 80px;
+    left: 55px;
+    bottom: -35px;
+  }
+  .bank3 {
+    width: 80px;
+    height: 80px;
+    bottom: 100px;
+  }
+  .bank4 {
+    width: 80px;
+    height: 80px;
+    bottom: 100px;
+  }
+  .bank5 {
+    width: 80px;
+    height: 80px;
+    top: 115px;
+    right: -25px;
+  }
+  .bank6 {
+    width: 80px;
+    height: 80px;
+    top: 115px;
+  }
+  .spiner_bank {
+    margin-top: 100px;
+  }
+  .norme h1,
+  .assisting h1 {
+    font-size: 50px;
+  }
+  .trope {
+    margin-bottom: 0;
+  }
+  .assisting,
+  .what {
+    height: 700px;
+  }
+
+  .assisting a {
+    font-size: initial;
+  }
+  .what ul {
+    padding-left: 0 !important;
+  }
+  .what ul li a {
+    font-size: 20px;
+  }
+  .ele {
+    margin-bottom: 0;
+  }
+  .contenu_QR {
+    padding: 20px !important;
+  }
+  .qr1 h1 {
+    font-size: 50px;
+  }
+  .qr2 {
+    padding-left: 10px;
+    padding-right: 10px;
+    flex-direction: column;
+  }
+  .qr2 .style_sel {
+    width: auto;
+    margin-bottom: 20px;
+  }
+  .zurk {
+    padding: 50px 20px;
+  }
+  .blue_circle {
+    display: none;
+  }
+  .content_foot {
+    padding: 70px 10px;
+  }
+  .menu_foot {
+    padding-left: 0;
+  }
+  .separate {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .second_part {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin: 50px 0;
+    padding-left: 0;
+  }
+  .botomer {
+    padding: 0;
+  }
+  .botomer .copyright {
+    display: block;
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  .modale {
+    padding: 20px;
+  }
+  .chared {
+    width: auto;
+  }
+}
